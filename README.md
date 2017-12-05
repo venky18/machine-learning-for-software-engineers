@@ -42,7 +42,7 @@ Please, feel free to make any contributions you feel will make it better.
 - [Machine learning mastery](#machine-learning-mastery)
 - [Machine learning is fun](#machine-learning-is-fun)
 - [Inky Machine Learning](#inky-machine-learning)
-- [Machine learning: an in-depth, non-technical guide](#machine-learning-an-in-depth-non-technical-guide)
+- [Machine Learning: An In-Depth Guide](#machine-learning-an-in-depth-guide)
 - [Stories and experiences](#stories-and-experiences)
 - [Machine Learning Algorithms](#machine-learning-algorithms)
 - [Beginner Books](#beginner-books)
@@ -160,12 +160,13 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Part 4: Modern Face Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
 - [ ] [Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
 - [ ] [Part 6: How to do Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
+- [ ] [Part 7: Abusing Generative Adversarial Networks to Make 8-bit Pixel Art](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
 
 ## [Inky Machine Learning](https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html)
 - [ ] [Part 1: What is Machine Learning ?](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
 - [ ] [Part 2: Supervised Learning and Unsupervised Learning](https://triskell.github.io/2016/11/13/Supervised-Learning-and-Unsupervised-Learning.html)
 
-## Machine learning: an in-depth, non-technical guide
+## Machine Learning: An In-Depth Guide
 - [ ] [Overview, goals, learning types, and algorithms](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 - [ ] [Data selection, preparation, and modeling](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
 - [ ] [Model evaluation, validation, complexity, and improvement](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
@@ -269,6 +270,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Practical Deep Learning For Coders](http://course.fast.ai/index.html)
 
 ## MOOC
+- [ ] [edX's Introduction to Artificial Intelligence (AI)](https://www.edx.org/course/introduction-artificial-intelligence-ai-microsoft-dat263x)
 - [ ] [Udacity’s Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
     - [Udacity Intro to Machine Learning Review](http://hamelg.blogspot.com/2014/12/udacity-intro-to-machine-learning-review.html)
 - [ ] [Udacity’s Supervised, Unsupervised & Reinforcement](https://www.udacity.com/course/machine-learning--ud262)
@@ -287,13 +289,16 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 - [ ] [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
 - [ ] [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
+- [ ] [Coursera’s Deep Learning](https://www.coursera.org/specializations/deep-learning)
 
 ## Resources
+- [ ] [Absolute Beginning into Machine Learning](https://hackernoon.com/absolute-beginning-into-machine-learning-e90ceda5a4bc)
 - [ ] [Learn Machine Learning in a Single Month](https://elitedatascience.com/machine-learning-masterclass)
 - [ ] [The Non-Technical Guide to Machine Learning & Artificial Intelligence](https://medium.com/@samdebrule/a-humans-guide-to-machine-learning-e179f43b67a0#.cpzf3a5c0)
 - [ ] [Best practices rule book for Machine Learning engineering from Google](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf)
 - [ ] [Machine Learning for Software Engineers on Hacker News](https://news.ycombinator.com/item?id=12898718)
 - [ ] [Machine Learning for Developers](https://xyclade.github.io/MachineLearning/)
+- [ ] [Machine Learning for Humans🤖👶](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 - [ ] [Machine Learning Advice for Developers](https://dev.to/thealexlavin/machine-learning-advice-for-developers)
 - [ ] [Machine Learning For Complete Beginners](http://pythonforengineers.com/machine-learning-for-complete-beginners/)
 - [ ] [Getting Started with Machine Learning: For absolute beginners and fifth graders](https://medium.com/@suffiyanz/getting-started-with-machine-learning-f15df1c283ea#.yjtiy7ei9)
@@ -307,6 +312,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [ ] [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [ ] [{Machine, Deep} Learning for software engineers](https://speakerdeck.com/pmigdal/machine-deep-learning-for-software-engineers)
 - [ ] [Deep Learning For Beginners](https://deeplearning4j.org/deeplearningforbeginners.html)
+- [ ] [Foundations for deep learning](https://github.com/pauli-space/foundations_for_deep_learning)
+- [ ] [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
 - Machine Learning courses in Universities
     - [ ] [Stanford](http://ai.stanford.edu/courses/)
     - [ ] [Machine Learning Summer Schools](http://mlss.cc/)
@@ -361,6 +368,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
     - [Linear Digressions](http://lineardigressions.com/)
     - [Data Skeptic](http://dataskeptic.com/)
     - [This Week in Machine Learning & AI](https://twimlai.com/)
+    - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
 
 - ### "More" advanced podcasts
     - [Partially Derivative](http://partiallyderivative.com/)
@@ -397,6 +405,8 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - IEEE Conference on Computational Intelligence and Games ([CIG](http://www.ieee-cig.org/))
 - IEEE International Conference on Machine Learning and Applications ([ICMLA](http://www.icmla-conference.org/))
 - International Conference on Machine Learning ([ICML](https://2017.icml.cc/))
+- International Joint Conferences on Artificial Intelligence ([IJCAI](http://www.ijcai.org/))
+- Association for Computational Linguistics ([ACL](http://acl2017.org/))
 
 ## Interview Questions
 - [ ] [How To Prepare For A Machine Learning Interview](http://blog.udacity.com/2016/05/prepare-machine-learning-interview.html)
